@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="text_value_message_welcome_login">Welcome!<br />Remember to save your information</string>
+    <string name="text_value_input_user_name_login">Username</string>
+    <string name="text_value_input_password_login">Password</string>
+    <string name="text_value_recovery_password_login">Forgot your password?</string>
+    <string name="text_value_text_button_login">Log In</string>
+    <string name="text_value_message_register_login">If you don\'t have an account SIGN UP</string>
+
+    <string name="text_value_null_error">Required</string>
+    <string name="text_value_user_name_error">Invalid Username</string>
+    <string name="text_value_password_error">Invalid Password</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_calendar">Calendar</string>
+</resources>
